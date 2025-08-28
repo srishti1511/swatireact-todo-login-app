@@ -10,7 +10,7 @@ A sleek, **React-based To-Do List** application that features a **login screen**
 ##  Features
 - **Login screen** (static credentials for demo):
   - Email: `test@gmail.com`
-  - Password: `12345`
+  - Password: `123456`
 - Add new tasks
 - Toggle tasks as completed
 - Delete tasks
