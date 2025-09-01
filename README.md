@@ -17,9 +17,16 @@ A sleek, **React-based To-Do List** application that features a **login screen**
 - Elegant **dark-themed** design with smooth UI
 
 ---
+## 🚀 Live Demo
+👉 [Check it out here](https://to-dolistswati.netlify.app/)  
+
+---
+
+
 
 ##  Screenshot
-*(Insert your project screenshot here — e.g., `screenshot.png`)*
+<img width="892" height="559" alt="To-Do" src="https://github.com/user-attachments/assets/86c50ce5-cf49-4b01-be41-8a146dbfa024" />
+
 
 ---
 
@@ -27,7 +34,7 @@ A sleek, **React-based To-Do List** application that features a **login screen**
 - React
 - JavaScript (ES6+)
 - CSS
-- [Netlify](https://www.netlify.com/) (for deployment)
+
 
 ---
 
